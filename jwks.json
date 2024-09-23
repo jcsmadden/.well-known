@@ -1,0 +1,12 @@
+ {
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "keyidTest",
+      "use": "sig",
+      "alg": "RS256",
+      "n": "base64-encoded-modulus",
+      "e": "AQAB"
+    }
+  ]
+}
